@@ -11,6 +11,7 @@
 - 🌌 Proficiently Skilled in - Three.js , ReactJS, Python,R
 - 🛹 Other Skills - Game dev with unreal engine, 3D designing with blender, UI / UX design
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyreseM&theme=dark)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyreseM&theme=monokai)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyreseM&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyreseM&theme=monokai)

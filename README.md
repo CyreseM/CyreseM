@@ -9,12 +9,9 @@
 
 - 🔭 I’m currently working on a video game using unreal engine
 - 🌱 I’m currently learning Kivy MD
-- 👯 I’m looking to collaborate on anything involving UI/UX
-- 🤔 I’m looking for a job and something that challenges me to be the best at what I do 
-- 💬 Ask me anything ...really just anything
+- 👯 I’m looking to collaborate on anything involving UI/UX 
 - 📫 How to reach me: millscyrese@gmail.com 
-- 🦾 Computer languages i know,Javascript, Python, C++,R
-- 🌌 Proficiently Skilled in - Three.js , ReactJS, Python,R
+- 🌌 Proficiently Skilled in - Java, ReactJS, Python, Javascript
 - 🛹 Other Skills - Game dev with unreal engine, 3D designing with blender, UI / UX design
 
 
@@ -27,6 +24,19 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+<h3 align="left">⚙ My Tech Stack:</h3>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" >&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual       Studio Code" width="30" >
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyreseM&theme=dark)](https://git.io/streak-stats)

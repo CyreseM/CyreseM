@@ -46,4 +46,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyreseM&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyreseM&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyreseM&theme=monokai&utcOffset=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyreseM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyreseM&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)

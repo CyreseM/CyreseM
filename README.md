@@ -42,7 +42,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyreseM&theme=dark)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyreseM&theme=monokai)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyreseM&show_icons=true&theme=radical)
+![Cyrese's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyreseM&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyreseM&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyreseM&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyreseM&theme=monokai)

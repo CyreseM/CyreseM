@@ -41,10 +41,10 @@
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyreseM&theme=dark)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyreseM&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyreseM&theme=radical)
 ![Cyrese's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyreseM&show_icons=true&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyreseM&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyreseM&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyreseM&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyreseM&theme=monokai&utcOffset=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyreseM&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyreseM&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyreseM&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyreseM&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyreseM&theme=radical&utcOffset=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyreseM&layout=compact&theme=radical)](https://github.com/CyreseM/github-readme-stats)

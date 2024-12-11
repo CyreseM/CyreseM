@@ -8,11 +8,11 @@
 </p>
 
 - 🔭 Currently working on building a 3d asset marketplace website
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on anything involving web development 
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on anything involving web dev
 - 📫 How to reach me: millscyrese@gmail.com 
 - 🌌 Proficiently Skilled in - Java, ReactJS, Python, Javascript
-- 🛹 Other Skills - Game dev with unreal engine, 3D designing with blender, UI / UX design
+- 🛹 Other Skills - 3D designing with blender, Chess, Cracking dad jokes
 
 
 ### 💻 Software and tools

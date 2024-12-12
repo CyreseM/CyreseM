@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;2%2B%20years%20of%20coding%20experience;Experienced%203D%20artist%20&font=Fira%20Code&center=true&width=440&height=45&color=00008b&vCenter=true&size=22"></a>
+  <a href="https://github.com/CyreseM/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;2%2B%20years%20of%20coding%20experience;Experienced%203D%20artist%20&font=Fira%20Code&center=true&width=440&height=45&color=00008b&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 Currently working on building a 3d asset marketplace website
@@ -29,7 +29,7 @@
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ACyreseM+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" >&nbsp;&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" >&nbsp;&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 

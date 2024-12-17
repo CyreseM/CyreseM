@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual       Studio Code" width="30" >
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CyreseM&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CyreseM&theme=dark&background=000000)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyreseM&theme=radical)
 ![Cyrese's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyreseM&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyreseM&theme=radical)

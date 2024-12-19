@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on anything involving web dev
 - 📫 How to reach me: millscyrese@gmail.com 
-- 🌌 Proficiently Skilled in - Java, ReactJS, Python, Javascript
-- 🛹 Other Skills - 3D designing with blender, Chess, Cracking dad jokes
+- 🌌 Proficiently Skilled in - Java, ReactJS, Python, Javascript,(Databases) - SQL, MongoDB
+- 🛹 Other Skills - 3D designing with blender, Chess, Cracking dad jokes, 
 
 
 ### 💻 Software and tools
